@@ -7,7 +7,7 @@ Toward a Multi-View Brain Network Foundation Model: Cross-View Consistency Learn
 
 Paper Link: [IEEE Xplore](https://ieeexplore.ieee.org/document/11701538)
 
-<img alt="Model" src="figs/comparison.png" title="Comparison"/>
+<img alt="Model" src="comparison.png" title="Comparison"/>
 
 ## Usage
 
